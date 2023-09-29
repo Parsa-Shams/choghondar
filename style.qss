@@ -1,0 +1,42 @@
+QPushButton{
+	background-color: white;
+    border: 1px solid #CFCFCF;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+QPushButton:hover{
+    border: 1px solid rgb(58, 195, 241);
+}
+
+QPushButton:pressed {
+	border: 2px solid rgb(58, 195, 241);
+}
+
+QHBowLayout{
+border: 0px;
+}
+
+QScrollArea QWidget{
+border: 1px solid #CFCFCF;
+border-radius: 5px;
+padding: 0px;
+margin: 0px;
+}
+
+QScrollArea {
+	border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+QScrollBar:vertical {
+    border: 2px solid grey;
+    background: #32CC99;
+    height: 15px;
+    margin: 0px 20px 0 20px;
+}
+QScrollBar::handle:vertical {
+    background: white;
+    min-width: 20px;
+}

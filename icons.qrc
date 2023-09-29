@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../build-choghondar-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/icons/add-button.png</file>
+        <file>../build-choghondar-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/icons/choghondar.png</file>
+        <file>../build-choghondar-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/icons/choghondarL.png</file>
+        <file>../build-choghondar-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/icons/open-folder.png</file>
+        <file>../build-choghondar-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/icons/play.png</file>
+        <file>../build-choghondar-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/icons/save-file.png</file>
+        <file>../build-choghondar-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/icons/stop.png</file>
+        <file>../build-choghondar-Desktop_Qt_5_12_12_MinGW_32_bit-Debug/icons/trash.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>icons/add-button.png</file>
+        <file>icons/choghondar.png</file>
+        <file>icons/choghondarL.png</file>
+        <file>icons/open-folder.png</file>
+        <file>icons/play.png</file>
+        <file>icons/save-file.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/trash.png</file>
+        <file>style.qss</file>
+    </qresource>
+</RCC>
